@@ -1,0 +1,4 @@
+# file: /ocean/projects/cis260009p/nmalik1/llm_sys/llmsys_hw1/minitorch/optim.py
+# hypothesis_version: 6.148.7
+
+[1e-08, 0.001, 0.5, 0.9, 0.999, 1.0, 'derivative', 'exp_avg', 'exp_avg_sq', 'grad', 'step']

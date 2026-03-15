@@ -191,7 +191,7 @@ class CudaKernelOps(TensorOps):
                 a._tensor._shape.astype(np.int32), 
                 a._tensor._strides.astype(np.int32), 
                 int(dim), 
-                float(reduce_dim),
+                float(reduce_value),
                 len(a.shape), 
                 fn_id
             )

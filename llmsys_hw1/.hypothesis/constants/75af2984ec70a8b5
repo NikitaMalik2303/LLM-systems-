@@ -1,0 +1,4 @@
+# file: /ocean/projects/cis260009p/nmalik1/llm_sys/llmsys_hw1/minitorch/tensor_data.py
+# hypothesis_version: 6.148.7
+
+[1000000000.0, '\n%s[', 'Shape must be tuple', ']']
